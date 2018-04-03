@@ -1,0 +1,8 @@
+{
+	"personas" :[
+	{"nombre" : "Camilo", "nickname" : "Cesar Perucci", "image" : "custom/images/camilo.png", "funcao": "Engenharia de software"},
+	{"nombre": "Diego", "nickname" : "Fiori", "image" : "custom/images/diegoFiori.png", "funcao": "Programação WEB"},
+	{"nombre" : "Adalberto", "nickname" : "Zorzo", "image" : "custom/images/adalberto.png", "funcao": "Fundamentos da ADM"}
+
+	]	
+}
